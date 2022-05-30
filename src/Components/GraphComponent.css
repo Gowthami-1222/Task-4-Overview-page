@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&display=swap');
+.GraphComponent {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.left{
+    position: relative;
+    left: 55px;
+    min-width: 350px;
+    border: 1px solid black;
+    min-height: 350px;
+    margin-top: 32px;
+
+}
+.right {
+    border: 1px solid black;
+    min-width: 780px;
+    background: #FFFFFF;
+box-shadow: 2px 2px 48px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+    /* display: flex; */
+}
+.subHeadings{
+    display: flex;
+    
+}
+
+.button{
+    position: absolute;
+    border: none;
+    outline: none;
+    color: white;
+    background: #1329E6;
+    border-radius: 8px;
+    padding: 8px 104px;
+    font-size: 14px;
+    bottom: 30px;
+    left: 26px;
+}
+.rightrow{
+    display: flex;
+}
+.score, .last, .next, .SIP{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.column1,.column3{
+    margin: 15px;
+    margin-top: 33px;
+}
+.column3{
+    border: 1px solid red;
+    margin: 15px;
+    margin-top: 33px;
+}
+.column2{
+    margin: 35px;
+}
+.column4{
+    margin: 13px;
+}
+.next{
+    margin-top: 20px;
+}

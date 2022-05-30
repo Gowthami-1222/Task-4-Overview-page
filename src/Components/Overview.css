@@ -1,0 +1,236 @@
+.e_overview-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24px;
+    padding-top: 40px;
+    padding-bottom: 24px;
+    color: #010101;
+}
+
+.col-sm-2.current-value {
+    height: 136px;
+    background: #1329E6;
+    background: #1329E6;
+    padding: 32px;
+    box-shadow: 2px 2px 48px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    color: #fff;
+    width: 277px;
+}
+
+.col-sm-9.total-value {
+    margin-left: 40px;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 48px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    padding: 32px;
+}
+.e-total,.e-xirr{
+    text-align: center;
+}
+
+.col-sm-4.summery {
+    height: 373px;
+    background: #EDF3FF;
+    border: 1px solid #F0F0F0;
+    border-radius: 8px;
+    padding: 32px;
+    margin-bottom: 130px;
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+}
+
+.row.pf-row {
+    margin-top: 40px;
+    padding-bottom: 130px;
+
+}
+
+.col-sm-7.performance {
+    margin-left: 40px;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 48px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    padding: 32px;
+    font-weight: 700;
+    font-size: 14px;
+    color: #010101;
+    width: 825px;
+}
+
+.e_total,
+.e_num {
+    text-align: center;
+    position: relative;
+}
+
+.e_num {
+    position: relative;
+    margin-left: 50px;
+}
+
+.col-sm-2 {
+    font-size: 14px;
+}
+
+.amount {
+    font-size: 24px;
+    font-weight: 700;
+    position: relative;
+    margin-top: 10px;
+}
+
+.col-sm-3 {
+    color: #6D6D6D;
+    font-size: 14px;
+}
+
+.num1,
+.num2,
+.num3 {
+    font-size: 24px;
+    color: black;
+    font-weight: 700;
+    margin-top: 9px;
+}
+
+.col-sm-4 .summery {
+    font-size: 14px;
+    color: rgb(144, 25, 25);
+    font-weight: 500;
+}
+
+.e-score,
+.e-last,
+.e-next,
+.e-sip {
+    color: #6D6D6D;
+    font-size: 14px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    position: relative;
+    top: 44%;
+    height: 37px;
+    bottom: 87.68%;
+}
+
+.e-amount-1,
+.e-date,
+.e-date-year,
+.e-month {
+    width: 172px;
+    height: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    margin-top: 42px;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.e-btn-invest {
+    position: relative;
+    text-align: center;
+}
+
+.e-button {
+    color: #fff;
+    width: 352px;
+    height: 50px;
+    border: none;
+    outline: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    margin-top: 43px;
+    background-color: #1329E6;
+    border-radius: 8px;
+}
+
+.e-arrow {
+    margin-left: 150px;
+    position: relative;
+}
+
+.row {
+    display: flex;
+}
+
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5 {
+    margin-top: 20px;
+    width: 45px;
+    height: 34px;
+    font-size: 10px;
+    padding: 10px;
+    color: #010101;
+    border: none;
+    outline: none;
+}
+
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5,
+.btn6  {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 15px;
+    color: #010101;
+}
+
+.btn2 {
+    margin-left: -80px;
+}
+
+.btn3 {
+    margin-left: -158px;
+}
+
+.btn4 {
+    margin-left: -237px;
+}
+
+.btn5 {
+    margin-left: -313px;
+}
+
+.btn6 {
+    width: 127px;
+    height: 34px;
+    margin-top: 20px;
+    font-size: 14px;
+    border-radius: 4px;
+    font-weight: 800;
+    margin-left: -387px;
+    color: black;
+    border: none;
+    outline: none;
+}
+
+button:hover {
+    background-color: #1329E6;
+    color: #FFFFFF;
+}
+
+.btn6 span {
+    width: 103px;
+    height: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
